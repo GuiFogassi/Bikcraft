@@ -46,7 +46,7 @@
 
 .bicicletas-lista a:hover h3::before {
   width: 24px;
-  transition: width 0.2s;
+  transition: width 0.3s;
 }
 
 .bicicletas-lista li span {
