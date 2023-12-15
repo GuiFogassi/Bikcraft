@@ -12,7 +12,8 @@ h5,
 h6 ul,
 p,
 blockquote,
-cite {
+cite,
+dd {
   margin: 0px;
   padding: 0px;
 }
