@@ -29,6 +29,12 @@
   margin-bottom: 20px;
 }
 
+@media (max-width: 1400px) {
+  .introducao-bg {
+    background: var(--cor-11);
+  }
+}
+
 @media (max-width: 800px) {
   .introducao-bg {
     background: var(--cor-11);
