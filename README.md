@@ -1,45 +1,24 @@
 # Bikcraft
 
-Bem-vindo ao projeto Bikcraft! Este é um site desenvolvido para a venda de bicicletas artesanais e personalizadas. Aqui você encontrará informações sobre os diferentes modelos de bicicletas, seguros, e poderá fazer pedidos personalizados.
+Este repositório é um projeto de estudos focado em desenvolvimento web, utilizando JavaScript, HTML e CSS. O objetivo é criar um site fictício para uma loja de bicicletas, explorando conceitos básicos de front-end e técnicas de desenvolvimento.
 
-## Índice
-- [Visão Geral](#visão-geral)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Contribuição](#contribuição)
-- [Contato](#contato)
+## Objetivo
 
-## Visão Geral
-O projeto Bikcraft foi criado para oferecer bicicletas exclusivas e de alta qualidade, com um design moderno e funcional. Navegue pelo site para conhecer os modelos disponíveis, solicitar orçamentos e entrar em contato para mais informações.
+O projeto **Bikcraft** visa praticar e demonstrar habilidades técnicas em:
 
-## Instalação
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/GuiFogassi/Bikcraft.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```sh
-   cd Bikcraft
-   ```
+- **HTML/CSS**: Estruturação e estilização de páginas web.
+- **JavaScript**: Adição de interatividade e manipulação do DOM.
+- **Responsividade**: Desenvolvimento de layouts que se ajustam a diferentes tamanhos de tela.
 
-## Uso
-1. Abra o arquivo `index.html` em seu navegador web para explorar o site.
-2. Personalize as páginas e estilos conforme sua necessidade, editando os arquivos HTML, CSS e JavaScript localizados nos respectivos diretórios (`bicicletas`, `css`, `img`, `js`).
+## Conceitos Técnicos
 
-## Tecnologias Utilizadas
-- **HTML**: Estrutura do site.
-- **CSS**: Estilização e layout.
-- **JavaScript**: Funcionalidades interativas.
+1. **HTML/CSS**:
+   - **HTML**: Estrutura básica do site, incluindo elementos como cabeçalho, rodapé, e seções de conteúdo.
+   - **CSS**: Estilos aplicados aos elementos HTML, como cores, fontes e layout responsivo.
 
-## Contribuição
-1. Faça um fork do repositório.
-2. Crie uma branch para sua feature (`git checkout -b feature/SuaFeature`).
-3. Comite suas alterações (`git commit -m 'Adicione sua feature'`).
-4. Faça o push para a branch (`git push origin feature/SuaFeature`).
-5. Abra um pull request.
+2. **JavaScript**:
+   - **Manipulação do DOM**: Alterações dinâmicas na estrutura da página, como exibição de informações ou resposta a eventos do usuário.
+   - **Interatividade**: Adição de funcionalidades como sliders, formulários e animações.
 
-## Contato
-Para dúvidas ou sugestões, entre em contato através do [e-mail](mailto:guilherme@guilhermerosa.com) e visite nosso [site](https://project-bikcraft.vercel.app).
-
----
+3. **Responsividade**:
+   - **Media Queries**: Utilização de media queries para garantir que o site funcione bem em diferentes tamanhos de tela e dispositivos.
