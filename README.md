@@ -47,7 +47,3 @@ Status: Em desenvolvimento
 ## Contribuição
 
 Contribuições são bem-vindas! Por favor, abra uma issue para discutir mudanças propostas.
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
